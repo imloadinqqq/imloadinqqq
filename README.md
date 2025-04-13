@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
@@ -77,7 +77,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imloadinqqq/imloadinqqq/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2025 18:37:54 UTC
+ Last Updated on 13/04/2025 18:37:58 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imloadinqqq)](https://github.com/anuraghazra/github-readme-stats)
