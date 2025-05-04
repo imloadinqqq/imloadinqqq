@@ -7,8 +7,6 @@
 
 > 📦 55.5 kB Used in GitHub's Storage 
  > 
-> 🏆 233 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -78,7 +76,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imloadinqqq/imloadinqqq/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:38:28 UTC
+ Last Updated on 04/05/2025 18:38:37 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imloadinqqq)](https://github.com/anuraghazra/github-readme-stats)
