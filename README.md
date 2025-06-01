@@ -7,8 +7,6 @@
 
 > 📦 55.5 kB Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -74,7 +72,7 @@ HTML                     3 repos             ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imloadinqqq/imloadinqqq/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2025 18:39:01 UTC
+ Last Updated on 01/06/2025 18:39:10 UTC
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imloadinqqq)](https://github.com/anuraghazra/github-readme-stats)
